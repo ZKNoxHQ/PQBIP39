@@ -1,0 +1,32 @@
+{
+  "name": "zknox-keygen",
+  "version": "1.0.0",
+  "description": "ZKNOX Key Derivation Tool - BIP39/BIP32 key derivation for PQ algorithms",
+  "type": "module",
+  "main": "derive-keys.js",
+  "scripts": {
+    "start": "node derive-keys.js",
+    "test": "node derive-keys.js abandon abandon abandon abandon abandon abandon abandon abandon abandon abandon abandon abandon abandon abandon abandon abandon abandon abandon abandon abandon abandon abandon abandon art"
+  },
+  "keywords": [
+    "bip39",
+    "bip32",
+    "ethereum",
+    "post-quantum",
+    "falcon",
+    "dilithium",
+    "xmss",
+    "cryptography"
+  ],
+  "author": "ZKNOX",
+  "license": "MIT",
+  "dependencies": {
+    "@noble/curves": "^1.4.0",
+    "@noble/hashes": "^1.4.0",
+    "@scure/bip32": "^1.4.0",
+    "@scure/bip39": "^1.3.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

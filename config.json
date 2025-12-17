@@ -1,0 +1,17 @@
+{
+  "paths": {
+    "legacy_k1": "m/44'/60'/0'/0/0",
+    "secp256r1": "m/44'/9001'/0'/0/0",
+    "falcon512": "m/44'/9002'/0'/0/0",
+    "dilithium44": "m/44'/9003'/0'/0/0",
+    "xmss_poseidon": "m/44'/9004'/0'/0/0"
+  },
+  "network": "mainnet",
+  "comments": {
+    "legacy_k1": "Standard Ethereum EOA path (BIP-44)",
+    "secp256r1": "Custom path for P-256 curve (EIP-7212 compatible)",
+    "falcon512": "Custom path for Falcon-512 PQ signatures",
+    "dilithium44": "Custom path for ML-DSA-44 (FIPS 204)",
+    "xmss_poseidon": "Custom path for XMSS with Poseidon hash (ZK-friendly)"
+  }
+}
