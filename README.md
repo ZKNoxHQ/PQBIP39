@@ -76,9 +76,8 @@ The tool outputs:
 
 ## How It Works
 
-```
-<img width="1301" height="1232" alt="image-0" src="https://github.com/user-attachments/assets/a5877f4e-53f4-40b0-8aff-ac01d05740a8" />
-```
+<img width="1301" height="1232" alt="image-0" src="https://github.com/user-attachments/assets/a02fa513-6592-4a5d-a1ef-c25a58f709f0" />
+
 
 The RNG generation of the mnemonic is not in the scope of the repo.
 
