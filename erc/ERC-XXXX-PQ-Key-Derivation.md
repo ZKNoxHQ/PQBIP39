@@ -1,15 +1,23 @@
----
-eip: XXXX
+erc: XXXX
+
 title: Post-Quantum Key Derivation from BIP39 Seed
+
 description: Standard derivation paths for post-quantum signature schemes from BIP39 mnemonics
+
 author: ZKNOX Team (@zknox)
-discussions-to: https://ethereum-magicians.org/t/eip-xxxx-post-quantum-key-derivation
+
+discussions-to: tbd
+
 status: Draft
+
 type: Standards Track
+
 category: ERC
+
 created: 2025-01-XX
+
 requires: 4337
----
+
 
 ## Abstract
 
