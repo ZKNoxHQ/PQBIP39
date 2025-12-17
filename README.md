@@ -113,6 +113,16 @@ Results:
 - xmss_poseidon: 9255a980d33b5f01ab5edd0f36ae67b713bd83a11d197481bc61a33e6e9816a0
 ```
 
+## Why it matters
+
+In one of his post, Vitalik described
+[how to hard-fork to save most users’ funds in a quantum emergency](https://ethresear.ch/t/how-to-hard-fork-to-save-most-users-funds-in-a-quantum-emergency/18901)
+Using this BIP39 derivation, it is possible to provide a ZK BIP39 proof to migrate frozen accounts (once a Quantum computer is detected), without leaking the mnemonic seed. ZKNOX future works includes developping the following circuit:
+
+<img width="1219" height="936" alt="image-3" src="https://github.com/user-attachments/assets/897787e4-fa42-462a-af0c-77f270edc688" />
+
+
+
 ## License
 
 MIT — ZKNOX
