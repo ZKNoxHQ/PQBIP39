@@ -7,7 +7,7 @@ Derives 256-bit seeds for multiple signature schemes from a single BIP39 mnemoni
 | Algorithm | Path | Usage |
 |-----------|------|-------|
 | **secp256k1** | `m/44'/60'/0'/0/0` | Legacy Ethereum EOA |
-| **secp256r1** | `m/44'/9001'/0'/0/0` | P-256 curve (EIP-7212) |
+| **secp256r1** | `m/44'/9001'/0'/0/0` | P-256 curve (EIP-7951) |
 | **Falcon-512** | `m/44'/9002'/0'/0/0` | Post-Quantum (lattice) |
 | **ML-DSA-44** | `m/44'/9003'/0'/0/0` | Post-Quantum (FIPS 204) |
 | **XMSS-Poseidon** | `m/44'/9004'/0'/0/0` | Post-Quantum (hash-based, ZK-friendly) |
